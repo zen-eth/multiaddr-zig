@@ -9,8 +9,8 @@
 
     .dependencies = .{
         .zmultiformats = .{
-            .url = "https://github.com/zen-eth/multiformats-zig/archive/refs/heads/rm-circular-dep.tar.gz",
-            .hash = "zmultiformats-0.1.0-yjvchohoBADALnCylBLeQF7Vn0SKULmQ_sFOrhzgmvQO",
+            .url = "git+https://github.com/zen-eth/multiformats-zig#59a2dd24949fffa226907b29340b00b0e805bfc9",
+            .hash = "zmultiformats-0.1.0-yjvchuJoBABua_AUUfrQNBEohw4Lq0GMhsqW5FmzQmKr",
         },
         .peer_id = .{
             .url = "https://github.com/blockblaz/peer-id/archive/refs/heads/v0.15.2.tar.gz",
