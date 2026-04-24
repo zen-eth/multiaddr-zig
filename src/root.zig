@@ -7,5 +7,5 @@ pub const Onion3Addr = multiaddr.Onion3Addr;
 pub const FromUrlError = multiaddr.FromUrlError;
 
 test {
-    @import("std").testing.refAllDeclsRecursive(@This());
+    @import("std").testing.refAllDecls(@This());
 }

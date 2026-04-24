@@ -5,16 +5,16 @@
 
     .version = "0.1.0",
 
-    .minimum_zig_version = "0.15.2",
+    .minimum_zig_version = "0.16.0",
 
     .dependencies = .{
         .zmultiformats = .{
-            .url = "git+https://github.com/zen-eth/multiformats-zig#59a2dd24949fffa226907b29340b00b0e805bfc9",
-            .hash = "zmultiformats-0.1.0-yjvchuJoBABua_AUUfrQNBEohw4Lq0GMhsqW5FmzQmKr",
+            .url = "git+https://github.com/zen-eth/multiformats-zig#3c242a8ab995d837e5f0efcbee91ee8174403eaa",
+            .hash = "zmultiformats-0.1.0-yjvchhppBABoxROWEWl0SVlAujCeYzQW-ALWHdAkHJNi",
         },
         .peer_id = .{
-            .url = "https://github.com/blockblaz/peer-id/archive/refs/heads/v0.15.2.tar.gz",
-            .hash = "peer_id-0.0.0-vHIk8ZdfAADctTzIgznksWwEzygVynEeSKDim42Pz-QL",
+            .url = "git+https://github.com/blockblaz/peer-id#05ac4b1b00bd90ec3fcf7add23f532b764e36157",
+            .hash = "peer_id-0.0.0-vHIk8WBgAAAeyBjMHGB3soNSxhZoh_J7yOtXRktVN-nP",
         },
     },
     .paths = .{
