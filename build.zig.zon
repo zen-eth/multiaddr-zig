@@ -13,8 +13,8 @@
             .hash = "zmultiformats-0.1.0-yjvchhppBABoxROWEWl0SVlAujCeYzQW-ALWHdAkHJNi",
         },
         .peer_id = .{
-            .url = "git+https://github.com/blockblaz/peer-id#05ac4b1b00bd90ec3fcf7add23f532b764e36157",
-            .hash = "peer_id-0.0.0-vHIk8WBgAAAeyBjMHGB3soNSxhZoh_J7yOtXRktVN-nP",
+            .url = "git+https://github.com/blockblaz/peer-id#12c89d1cfed42404639e85d66afa1ae184fb8b49",
+            .hash = "peer_id-0.0.0-vHIk8WBgAADlwh_U17oaui2ofSkaE5jIk2mZaCr5ss3q",
         },
     },
     .paths = .{
